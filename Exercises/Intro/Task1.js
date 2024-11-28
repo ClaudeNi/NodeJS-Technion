@@ -1,3 +1,4 @@
+// קלוד ניג'ם
 // Random number chosen
 const num = 7;
 

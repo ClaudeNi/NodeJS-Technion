@@ -1,4 +1,5 @@
 // קלוד ניג'ם
+// רוג'ה ניג'ם
 // array of numbers
 let arr = [1, 2, 3, 0, 4, 5, 6, 7, 8, 9, 10, 0];
 // count of zeroes

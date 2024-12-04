@@ -1,4 +1,5 @@
 // קלוד ניג'ם
+// רוג'ה ניג'ם
 // For loop that goes over all the numbers lower than 237 and prints all prime numbers
 for (let i = 2; i < 237; i++) {
   // Creation/reset of a boolean flag to know when you have a prime number. Assume all are.
